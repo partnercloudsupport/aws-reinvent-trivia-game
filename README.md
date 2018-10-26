@@ -1,6 +1,6 @@
-# AWS Trivia Game
+# AWS re:Invent Trivia Game
 
-All trivia questions likely already out of date
+All trivia questions current as of 2018
 
 ## Credits
 * Static site based on [React Trivia](https://github.com/ccoenraets/react-trivia)
